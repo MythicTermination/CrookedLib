@@ -1,7 +1,10 @@
 ![crookedlib-banner](https://i.ibb.co/dM3r3L1/crookedlib-banner.png)
 
 # Introduction
-Welcome to CrookedLib! This fork brings the power of GeckoLib's 4.0 animation engine to Minecraft version 1.19.2. Initially created for personal use in EntityJS Mod as its animation engine, this backport is now available for broader use, providing support akin to Gecko's 4.0+ versions.
+Welcome to CrookedLib! This fork brings the power of GeckoLib's 4.0 animation engine to Minecraft version 1.19.2. Initially created for personal use in EntityJS Mod as its animation engine, this backport is now available for broader use, providing support akin to Gecko's 4.0+ versions. 
+
+Main use for dwellers But works on everything.
+my server: https://discord.gg/GAkU5HZqqF
 
 ## Features
 - **Backported Animation Engine**: Enjoy the full functionality of GeckoLib's 1.19.3 animation engine in the unsupported Minecraft 1.19.2.
@@ -17,7 +20,7 @@ repositories {
 maven { url 'https://dl.cloudsmith.io/public/lio/crookedlib/maven/' }
 }
 dependencies {
-implementation fg.deobf('net.crookedman.crookedlib:crookedlib-forge-1.19.2:0.0.1')
+implementation fg.deobf('net.crookedman.crookedlib:crookedlib-forge-1.19.2:0.0.2')
 }
 ```
 
@@ -26,7 +29,7 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 
 ## License
-This project is licensed under the [MIT License](https://github.com/crookedman/crookedlib/blob/master/LICENSE).
+This project is licensed under the [MIT License](https://github.com/MythicTermination/CrookedLib/blob/master/LICENSE).
 
 ## Acknowledgments
-Special thanks to the creators and maintainers of GeckoLib for their excellent work on the original library.
+Special thanks to the creators and maintainers of GeckoLib And Liolib for their excellent work on the original library.
