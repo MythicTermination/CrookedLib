@@ -1,0 +1,7 @@
+{
+  "parent": "crookedlib:block/default_box",
+  "textures": {
+    "1": "crookedlib:block/botarium_side",
+    "particle": "crookedlib:block/botarium_side"
+  }
+}

@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+issueTrackerURL="https://github.com/crookedman/crookedlib"
+license="MIT"
+[[mods]]
+modId="crookedlib"
+version="1.19-0.0.1"
+displayName="crookedlib"
+logoFile="crookedlib.png"
+credits="Gecko, Eliot, AzureDoom, Chappie, DerToaster, Tslat"
+author="Crooked Man"
+description='''
+CrookedLib is an animation engine for Minecraft Mods, with support for complex 3D keyframe-based animations, 30+ easings, concurrent animation support, sound and particle keyframes, event keyframes, and more.
+'''
+[[dependencies.crookedlib]]
+    modId="forge"
+    mandatory=true 
+    versionRange="[43.1.25,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.crookedlib]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19, 1.20)"
+    ordering="NONE"
+    side="BOTH"
