@@ -1,4 +1,4 @@
-![crookedlib-banner]([https://i.ibb.co/dM3r3L1/crookedlib-banner.png](https://i.ibb.co/Z186MSqR/892d59b445e76582b7f4ac1e55446b45.png)
+![crookedlib-banner](https://i.ibb.co/Z186MSqR/892d59b445e76582b7f4ac1e55446b45.png)
 
 # Introduction
 Welcome to CrookedLib! This fork brings the power of GeckoLib's 4.0 animation engine to Minecraft version 1.19.2. Initially created for personal use in EntityJS Mod as its animation engine, this backport is now available for broader use, providing support akin to Gecko's 4.0+ versions. 
